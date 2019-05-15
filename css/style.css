@@ -130,26 +130,7 @@ div.scroll {
   overflow:auto;
 }
 
-.pokerbabelogo a {
-  background-position:top center;
-  background-image:url(http://www.kiplinger.com/kipimages/pages/18048.jpg);
-  background-repeat:no-repeat;
-  display:block;
-  height:93px;
-  width:128px;
-  boreder:1px solid red;
-  z-index:9999;
-  position:fixed;
-  bottom:0;
-  right:25px;
-  padding-top:3px;
-  text-decoration:none;
-  font-size:12px;
-  text-align:center;
-  font-family:Georgia;
-  font-style:italic;
-  color:rgba(223,189,121,0);
-}
+
 
 .hvr-pulse {
   display:inline-block;
@@ -243,7 +224,7 @@ div.scroll {
 /* =================================================================
                        Rules of the Room
 =================================================================*/
-#rulessection {
+#section1 {
   display:inline-block;
   margin-left:-2px;
   width:910px;
@@ -276,7 +257,7 @@ div.scroll {
 /* =================================================================
                                                Tip menu start
 =================================================================*/
-#tipmenutitle {
+#title1 {
   width:295px;
   display:inline-block;
   height:162px;
@@ -566,7 +547,7 @@ div.scroll {
 /* =================================================================
                                       Fan Clubs Info start
 =================================================================*/
-#clubmemberstitle {
+#title2 {
   display:inline-block;
   margin-left:280px;
   width:329px;
