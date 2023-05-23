@@ -1,0 +1,645 @@
+FOOD
+Purina
+Blue bottle coffee
+Boost
+Buitoni
+Buxton
+Cailler
+Cheerio
+Chef
+Chef-mate
+Coffeemate
+Compleat
+Contrex
+Digiorno
+Dogchow
+Dreyers
+Erikli
+Extreme
+Fitness
+Garden Gourmet
+Garden of Life
+Hsu Fu Chi
+Impact
+Lean Cuisine
+Lion Cereals
+Life cuisine
+Maggi
+Mazeast
+Minors
+Movenpick
+Natures Bounty
+Nescafe
+Nespresso
+Nastea
+Nestle purelife
+Quality Street
+Sjora
+Smarties
+Solgar
+Stouffers
+Sweet Earth
+Thomy
+Tollhouse
+Vitaflor
+Vital Proteins
+Vittel
+Coke
+Sprite
+Fanta
+Honest tea
+Minute maid
+Glaceau
+Dr.Pepper
+Powerade
+Topo Chico
+Dasani
+Ades
+AHA water
+Appletiser
+Aquarius water
+Barqs
+Body Armor
+Ciel Water
+Costa Coffee
+Dasani Water
+De valle juice
+Fairlife milk
+Fresca
+Fuzetea
+Georgia coffee
+Gold peak tea
+Innocent smoothie
+Peacetea
+Schweppes
+Simply juice
+Alhambra water
+Bluesky
+Capri sun
+Hi-C
+Mellow yellow
+Odwalla
+Seagrams
+Smart water
+Tahitian treat
+Kroger
+Evian
+Brew Dr
+Panera
+Old Bay
+Frito Lay
+Starbucks
+Skittles
+Kindbar
+Kellogs
+Eggo
+Poptarts
+Cheez its
+Club
+Nutrigrain
+Rice Krispies
+Special K
+All Bran
+Mini Wheats
+Morning star farms
+Famous Amos
+Ready crust
+Kashi
+Pringles
+Mueslix
+Honey Smacks,
+Apple Jacks
+Krave
+Kellogg's corn flakes
+Alt Bran
+Cracklin Oat Bran
+Crispix
+Corn pops
+Bear naked
+Carrs
+Cheez its
+Grahams
+Incogmeato
+Instabowl
+Jumbo snax
+Pure organic
+Toasteds
+Townhouse
+Zesta
+Mars Inc
+M&M 
+Snickers
+Dove
+Mars
+Wrigleys
+Orbit
+Masterfood
+Extra
+Uncle bens
+Raris
+Whistle
+Whiskas
+Royal canine
+Gomo
+Cocoavita
+Double mint
+Twix
+Freedent
+5gum
+Juicy fruit
+Hubba bubba
+Big red
+Life savers
+Starburst
+Altoids
+Oreo
+Chipotle
+Bobos
+Its sugar
+Insomnia cookies
+Voodoo doughnuts
+Colechivo coffee
+Smart sweets
+Pizza hut
+Couplet coffee
+Shine water
+Curio spice
+Burger king
+Dunkin doughnuts
+Mcdonalds
+Shake shack
+Papa johns
+Mondelez International
+Belvita
+Chips Ahoy
+Ritz
+Oreo
+TUC
+Triscuit
+LU
+Club Social
+Sour Patch Kids
+Barny
+Peek franz
+Milka
+Cote d’or
+Toblerone
+Cadburry
+Green and black
+Marabou
+Fry’s
+Lacta
+Alpen gold
+Trident
+Dentyne
+Chiklets
+Halls
+Stride
+Tang
+Tates bake shop
+Pads cookies
+Kraft foods
+Maxwell house
+Nabisco
+Jacobs
+Kraft
+Oscar mayer
+Philadelphia
+A1
+Planters
+Polly-o
+Stove top
+Tossimo
+Miracle whip
+Velveeta
+Mio
+Lunchables
+Jet puffed
+Athenos
+Gevalia
+Country time
+Cracker barrel
+Crystal light
+Kool aid
+Classico
+Bagel bites
+Honig
+ABC
+Smart ones
+TGI Fridays
+Gadburry
+Nutter butter
+Honey maid
+Nilla
+Bakers
+Knox
+Jell-o
+Lancaster caramel company
+5th ave
+Almond joy
+Bark thins
+Hershys
+Breath savers
+Skinny pop
+Pirates booty
+ONE protein bar
+Lily’s chocolate
+Health
+Payday
+Reeces
+Good & plenty
+Twizzlers
+Milk duds
+Rolo
+Skor
+Whatchamacallit
+ zagnut
+Zero
+Nestle
+Gerber
+Perrier
+Poland springs
+San Pellegrino
+Deer park
+Toll house
+Coffee mate
+Carnation
+Hot pockets
+Digiorno
+Buitoni
+Lean cuisine
+Sweet earth
+Libby’s pumpkin
+Haagen daz
+Purina
+Alpos
+Fancy feast
+Friskies
+Tidy cats
+Arrowhead
+Ice mountain
+Zephyrhills
+Ready refresh
+Ciniminis
+Ozarka
+Acquapanna
+Sma nutrition
+Nesquik
+Gofree
+NAT
+Curiously cinamon
+Chocapic
+Aldi
+Target
+
+
+
+
+
+OTHER
+Swarovski
+Lego
+Mattel
+Warner bros
+Wyndham
+Bristol meyers squibb
+Audible
+Apple
+Lyft
+Master card
+Five below
+Floyd’s barber shop
+Salesforce
+Kaiser permanente
+Liberty mutual
+U.S Steel
+Paramount
+Sony
+Logitech
+Hyundai
+Pernod Ricard USA
+Delta
+Village Road Show Entertainment
+American express
+NBA
+WNBA
+Riot Games
+Eharmony
+Omicron heath group
+Procter and Gample
+Bank of America
+Raytheon
+Tinder
+Flipstik
+Trixie Mattel
+Yankee Candle
+IKEA
+House of intuition
+The Good patch
+Williams Sonoma
+Pottery Barn
+BYOMA
+Disney
+Homelife
+RedVentures
+Robinhood
+HBO Max
+Teach for America
+Stanley Black and Decker
+The Paller Fund
+Chartwell
+Gamma-Mu Foundation
+BW-Bastion Foundation
+ATT
+Google
+Harrys
+Humble Bundle
+Pinterest
+P&G
+Twilio
+Amazon
+Brooklyndata
+Gilead 
+Overwatch
+Youtube
+Gm
+Fossil
+Compost
+Hempz
+Goldman sachs
+Hot topic
+NFL
+OPI
+Pair of Thieves
+Pay.com
+Shein
+Saks fifth ave
+Petco
+Statefarm
+United
+Verizon
+Wells fargo
+Xbox
+Altice
+Aetna
+Bank of america
+Bigo live
+Bliss
+Caleres
+Cloak
+CNA
+COS
+Conscious step
+Facebook
+FedEx
+Headspace
+Guitar center
+Nascar
+Netflix
+Tiktok
+Toyota
+Warner Media
+Yelp
+Anthem foundation
+American express
+Booksamillion
+Jackbox games
+Johnson and Johnson
+NHL
+Arcteryx 
+REI
+
+
+CLOTHING
+Rack room shoes
+NIKE
+Under Armour
+Adidas
+Columbia
+
+Reebok
+Puma
+CobraGolf
+Tietorn
+NewBalance
+Abercrombie and Fitch
+Hollister
+Ami Paris
+Barton Perreira
+Betsey Johnson
+Blue bella
+Blundstone
+Chaco
+Cole Haan
+COS
+Crocs
+Dearfoams
+Dr Martins
+Fourlaps
+Freedom Moses
+Guess
+Happy Socks
+Hush Puppies
+Just Fab
+Kate Spade
+Kohls
+Target 
+Ugg
+Mavi
+Naturalizer
+No Bull
+Nordstrom
+Pura Vida
+Rue 21
+Saks OFF 5th
+Sanuk
+Shoe Dazzle
+Skagen
+Spencers
+Superga
+Baja East
+Vans
+Vadig
+Voltaire
+Louis Vuitton
+Macys
+John Lewis
+Debenhams
+Burberry
+TopShop
+Walmart
+GAP
+Old Navy
+Banana Republic 
+Fenty
+Just Fab
+Levi
+Adore Me
+Victorias Secret
+Petar Jain
+Kohls
+Kate Spade
+Audrey Bra
+Vera Bradley
+Aerie
+Zenni
+Fossil
+Dolce Vita
+YITTY
+Torrid
+Koola burra
+Pink
+Victorias Secret
+RxBar
+H&M
+Calvin Klein
+Williams sonoma
+Jimmy choo
+Hot Topic
+Kiehls
+Journey
+Aeropostal
+Foot locker
+GUESS
+Vogue
+Lee Jeans
+Uniform Advantage
+PUMA
+
+COSMETICS
+Fenty
+Pacific Shaving
+Bliss
+Jean Paul Gaultier
+Wet and Wild
+Smash box
+Trixie mattle
+Kevyn Avcoin
+Alder NewYork
+Balmain
+E.l.f
+Harry’s
+Flamingo
+About-face
+Xmondo
+Olay
+ARSN the Label
+Teva
+Nadri
+NYX
+Haverhill
+The Body Shop
+Mabelline
+Beauty for all
+Native
+Sephora
+Nautica
+Sally Hansen
+Covergirl
+Kaja beauty
+Acure
+About face
+Clorox
+Burts bees
+
+
+
+CLEANING SUPPLIES
+
+Clorox Family of Brands
+Agua Jane®
+Ayudin®
+Brita®
+Burt’s Bees®
+Champion Performance®
+Chux®
+Clorinda®
+Clorox®
+Clorox 2®
+Clorox Healthcare®
+Clorox® Total 360®
+CloroxPro™
+Dispatch®
+Ever Clean®
+Formula 409®
+Fresh Step®
+Glad®
+Green Works®
+Gumption Cleanser
+Handi Wipes®
+Hidden Valley®
+KC Masterpiece®
+Kingsford®
+Kitchen Bouquet®
+Lestoil®
+Limpido®
+Liquid-Plumr®
+Match Light
+Mistolin®
+Mortimer®
+Natural Vitality®
+Neocell®
+OSO®
+Pine-Sol®
+PinoLuz®
+Poett®
+Rainbow Light®
+Ready Mop®
+RenewLife®
+Selton®
+S.O.S®
+Scoop Away®
+Soy Vay®
+Stop Aging Now®
+Tilex®
+Trenet®
+True Health
+Wash N Dri®
+
+
+ALCOHOL
+Jagermeister
+Absolut
+Budlight
+Hornitos
+Barefoot wine
+Miller lite
+Crystal head vodka
+Future gin
+House wine
+Gay beer
+Cool cat
+Illegal mezcal
+Ogden’s own
+Effen
+Kettle one
+Boston beer company
+Samuel adams
+Stella roda
+Equality Vines
+Goose island
+Rhode island spirits
+Tom of Finland Vodka
+Dyke beer
+Albany Vodka (ALB)
+Cotton and Reed Rum
+Privateer rum
+Smirnoff
+Stateside urbancraft
+Stoli Vodka (stolichnaya)
+Svedka 
+House Wine
+
+
+
+Pampers
+Luvs
+
+
+
+
+
+
+
+
+
